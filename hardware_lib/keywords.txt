@@ -1,0 +1,7 @@
+Cube	KEYWORD1
+setHigh	KEYWORD2
+setLow	KEYWORD2
+setDelay	KEYWORD2
+pixel	KEYWORD2
+print	KEYWORD2
+displayPlane	KEYWORD2
